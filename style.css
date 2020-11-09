@@ -1,0 +1,91 @@
+body{
+   
+    text-decoration: none;
+}
+* {
+    color: yellow;
+    font-family: 'Michroma', sans-serif ;
+    text-decoration: none;
+ }
+.center{ /*punkten betyder att det är en klass*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.ENTER{
+    font-family: 'Michroma', sans-serif;
+    font-size: 250%;
+    position: fixed;
+    top: 50%;
+    right: 50%;
+    left: 50%;
+    bottom: 50%;
+    color: yellow;
+}
+
+.euro{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+    z-index: 1;
+    position: fixed;
+    top: 20%;
+    right: 30%;
+}
+.TBA{
+    font-family: 'Michroma', sans-serif;
+    font-size: 250%;
+    color: yellow;
+    position: fixed;
+    right: 50%;
+
+}
+nav > ul > li {
+    font-weight: 'Michroma', sans-serif;
+    color: yellow;
+    display: block;
+    text-decoration: none;
+    list-style: none;
+    margin: 0 5px 0 5px 0;
+}
+.datum{
+    font-family: 'Michroma', sans-serif;
+    font-size: 250%;
+    position: fixed;
+    top: 60%;
+}
+.HOME{
+    font-family: 'Michroma', sans-serif;
+    font-size: 250%;
+    position: fixed;
+    left: 60%;
+    top: 70%;
+}
+.berghain{
+    position: center;
+    size: 1000%;
+}
+.isbjorn{
+ left: 80%;
+ right: 50%;
+ top: 50%;
+ bottom: 50%;
+ size: 1000%;
+ height: 30%;
+ width: 30%;
+}
+.postcovid{
+    font-family:'Michroma', sans-serif ;
+    font-size: 250%;
+    position: fixed;
+    top: 50%;
+
+}
+.tecken{
+font-family: 'Times New Roman', Times, serif;
+font-size: 250%;
+position: fixed;
+z-index: 1;
+right: 35%;
+top: 20%;
+}
